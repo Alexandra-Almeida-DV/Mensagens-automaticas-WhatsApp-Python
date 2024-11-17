@@ -3,3 +3,23 @@ Time: 15:45
 Phone Number: +5511999999999
 Message: Mensagem enviada instantaneamente!
 --------------------
+Date: 17/11/2024
+Time: 15:51
+Phone Number: +5511999999999
+Message: Mensagem enviada instantaneamente!
+--------------------
+Date: 17/11/2024
+Time: 15:52
+Phone Number: +5511999999999
+Message: Mensagem enviada instantaneamente!
+--------------------
+Date: 17/11/2024
+Time: 15:53
+Phone Number: +5516994579559
+Message: Olá! Esta é uma mensagem automática enviada com Python! Ps: Eu te amo S2
+--------------------
+Date: 17/11/2024
+Time: 15:54
+Phone Number: +5516997788161
+Message: Olá! Esta é uma mensagem automática enviada com Python! Ps: Eu te amo S2
+--------------------

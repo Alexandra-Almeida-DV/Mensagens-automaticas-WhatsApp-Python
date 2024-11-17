@@ -4,13 +4,13 @@ import pywhatkit as kit
 numero_telefone = "+5516997788161"  # Exemplo para o Brasil
 mensagem = "Olá! Esta é uma mensagem automática enviada com Python! Ps: Eu te amo S2"
 horario_hora = 15  # Hora do envio (formato 24 horas)
-horario_minuto = 47  # Minuto do envio
+horario_minuto = 56  # Minuto do envio
  
  # enviar sem esperar um horário específico
-kit.sendwhatmsg_instantly("+5511999999999", "Mensagem enviada instantaneamente!")
+#kit.sendwhatmsg_instantly("+5511999999999", "Mensagem enviada instantaneamente!")
 
  # enviar mensagns para um grupo: Use ID do grupo do WhatsAPP Web
-kit.sendwhatmsg_to_group("ID_DO_GRUPO", "Mensagem para o grupo", 15, 45)
+#kit.sendwhatmsg_to_group("ID_DO_GRUPO", "Mensagem para o grupo", 15, 45)
 
 
 try:
