@@ -1,8 +1,8 @@
 import pywhatkit as kit
 
 # Insira o número de telefone no formato internacional
-numero_telefone = "+5516997788161"  # Exemplo para o Brasil
-mensagem = "Olá! Esta é uma mensagem automática enviada com Python! Ps: Eu te amo S2"
+numero_telefone = "+55111999999999"  # Exemplo para o Brasil
+mensagem = "Olá! Esta é uma mensagem automática enviada com Python!"
 horario_hora = 16  # Hora do envio (formato 24 horas)
 horario_minuto = 17  # Minuto do envio
  
