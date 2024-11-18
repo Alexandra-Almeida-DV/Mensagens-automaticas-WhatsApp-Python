@@ -23,3 +23,23 @@ Time: 15:54
 Phone Number: +5516997788161
 Message: Olá! Esta é uma mensagem automática enviada com Python! Ps: Eu te amo S2
 --------------------
+Date: 17/11/2024
+Time: 16:7
+Phone Number: +5516997788161
+Message: Olá! Esta é uma mensagem automática enviada com Python! Ps: Eu te amo S2
+--------------------
+Date: 17/11/2024
+Time: 16:13
+Phone Number: +5516997578761
+Message: Olá! Esta é uma mensagem automática enviada com Python! Ps: Eu te amo S2
+--------------------
+Date: 17/11/2024
+Time: 16:14
+Phone Number: +5516997788161
+Message: Olá! Esta é uma mensagem automática enviada com Python! Ps: Eu te amo S2
+--------------------
+Date: 17/11/2024
+Time: 16:16
+Phone Number: +5516997788161
+Message: Olá! Esta é uma mensagem automática enviada com Python! Ps: Eu te amo S2
+--------------------
